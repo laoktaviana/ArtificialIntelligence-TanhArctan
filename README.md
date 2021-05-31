@@ -1,6 +1,6 @@
 Task Sistem Cerdas / Laily (2101201026)
 
-**Train Tensor Flow Menggunakan Library Keras**
+**Train TensorFlow Menggunakan Library Keras**
 
 Terdiri dari 4 skenario dengan 2 fungsi (tanh & arctan) setiap model untuk dianalisis. 
 
